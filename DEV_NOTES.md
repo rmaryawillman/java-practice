@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Cross-checked behaviour against spec
 - Updated license year
+
+## 2026-04-08
+- Verified compatibility with latest runtime version
+- Cleaned up old debug logs
